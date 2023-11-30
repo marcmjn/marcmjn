@@ -1,6 +1,14 @@
 ### Hi there 👋
+I'm Marc from Phoenix, Arizona!
 
- 🌱 I’m currently learning how to code and program through Bloom Tech.
+ 🌱 I’m currently learning how to code and program (HTML, CSS, Javascript, React ...)  through Bloom Tech.
+
+ ![marcmjn's Stats](https://github-readme-stats.vercel.app/api?username=marcmjn&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
+ ![marcmjn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcmjn&theme=vue-dark&hide_border=false)
+
+ ![marcmjn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcmjn&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+ 
 
 <!--
 **marcmjn/marcmjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
