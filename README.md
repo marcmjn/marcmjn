@@ -1,26 +1,24 @@
-### Hi there 👋
+### Hi there 👋, my name is Marc
+#### On this learning journey!
 I'm Marc from Phoenix, Arizona!
 
- 🌱 I’m currently learning how to code and program (HTML, CSS, Javascript, React ...)  through Bloom Tech.
+🌱 I’m currently learning how to code and program through Bloom Tech.
 
- ![marcmjn's Stats](https://github-readme-stats.vercel.app/api?username=marcmjn&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+Skills: REACT / JS / HTML / CSS
 
- ![marcmjn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcmjn&theme=vue-dark&hide_border=false)
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning React 
 
- ![marcmjn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcmjn&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
- 
 
-<!--
-**marcmjn/marcmjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marcmjn)  
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=marcmjn)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcmjn)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcmjn&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/marcmjn)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=marcmjn)  
+
