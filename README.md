@@ -18,9 +18,9 @@ I’m a passionate **Full Stack Developer** specializing in **React.js, Node.js,
 ---
 
 ## 📌 **Featured Projects**
-### 🏆 **[Human Rights First: Asylum Report Generator](GitHub Repo Link)**
+### 🏆 **[Human Rights First: Asylum Report Generator](https://github.com/marcmjn/asylum-hrf-fe-starter.git)**
 **Tech:** React.js, Node.js, API Integration, Data Visualization, Auth0  
-🔗 **Live Demo** [https://asylum-fe.vercel.app] 
+🔗 **[Live Demo](https://asylum-fe.vercel.app)**  
 
 ### 🖩 **[React Calculator](GitHub Repo Link)**
 **Tech:** React.js, State Management, Keyboard Support, Light/Dark Mode  
