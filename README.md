@@ -28,7 +28,7 @@ I’m a passionate **Full Stack Developer** specializing in **React.js, Node.js,
 
 ### 🔐 **[Authentication & Testing API](GitHub Repo Link)**
 **Tech:** Node.js, Express, JWT, Jest, Supertest  
-🔗 **GitHub Repo:** [Repo Link]  
+🔗 **GitHub Repo:** https://github.com/marcmjn/web-sprint-challenge-authentication-and-testing.git 
 
 ---
 
