@@ -22,9 +22,9 @@ I’m a passionate **Full Stack Developer** specializing in **React.js, Node.js,
 **Tech:** React.js, Node.js, API Integration, Data Visualization, Auth0  
 🔗 **[Live Demo](https://asylum-fe.vercel.app)**  
 
-### 🖩 **[React Calculator](GitHub Repo Link)**
+### 🖩 **[React Calculator](https://github.com/marcmjn/calculator-app2025.git)**
 **Tech:** React.js, State Management, Keyboard Support, Light/Dark Mode  
-🔗 **Live Demo:** https://calculator-app2025.vercel.app  
+🔗 **[Live Demo]([https://asylum-fe.vercel.app](https://calculator-app2025.vercel.app))**  
 
 ### 🔐 **[Authentication & Testing API](GitHub Repo Link)**
 **Tech:** Node.js, Express, JWT, Jest, Supertest  
