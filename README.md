@@ -1,13 +1,51 @@
-### Hi there 👋, my name is Marc
-#### On this learning journey!
-I'm Marc from Phoenix, Arizona!
+# Hi there 👋, I'm Marc Galanga!
 
-🌱 I’m currently learning how to code and program through Bloom Tech.
+🚀 **Full Stack Web Developer | React & Node.js Enthusiast**  
+📍 Phoenix, AZ  
 
-Skills: REACT / JS / HTML / CSS
+I’m a passionate **Full Stack Developer** specializing in **React.js, Node.js, Express, and Authentication Security (JWT, Auth0)**. I enjoy **building scalable applications, optimizing user experiences, and implementing secure authentication systems**.  
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React 
+---
+
+## 🔥 **Tech Stack & Tools**
+🖥 **Frontend:** React.js, Redux, Tailwind CSS, HTML5, CSS3  
+⚙️ **Backend:** Node.js, Express.js, PostgreSQL, RESTful APIs  
+🔐 **Authentication & Security:** JWT, Auth0, bcrypt.js  
+🛠 **Testing & Debugging:** Jest, Supertest  
+📦 **Deployment:** Vercel, Heroku, Netlify  
+🔧 **Tools:** Git, GitHub, Agile Development  
+
+---
+
+## 📌 **Featured Projects**
+### 🏆 **[Human Rights First: Asylum Report Generator](GitHub Repo Link)**
+**Tech:** React.js, Node.js, API Integration, Data Visualization, Auth0  
+🔗 **Live Demo:** [Project Link]  
+
+### 🖩 **[React Calculator](GitHub Repo Link)**
+**Tech:** React.js, State Management, Keyboard Support, Light/Dark Mode  
+🔗 **Live Demo:** [Calculator Link]  
+
+### 🔐 **[Authentication & Testing API](GitHub Repo Link)**
+**Tech:** Node.js, Express, JWT, Jest, Supertest  
+🔗 **GitHub Repo:** [Repo Link]  
+
+---
+
+## 📊 **GitHub Stats**
+![Marc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcmjn&show_icons=true&theme=dark)  
+
+---
+
+## 📬 **Let's Connect!**
+🔗 **[LinkedIn](Your LinkedIn URL)**  
+📩 **Email:** [Your Email]  
+💻 **Portfolio (if available):** [Your Website]  
+
+---
+
+> 💡 Always learning, always building! Open to collaborations & new opportunities! 🚀
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marcmjn)  
