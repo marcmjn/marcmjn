@@ -56,7 +56,7 @@ I’m a passionate **Full Stack Developer** specializing in **React.js, Node.js,
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcmjn&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/marcmjn)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=marcmjn)  
 
