@@ -39,7 +39,7 @@ I’m a passionate **Full Stack Developer** specializing in **React.js, Node.js,
 
 ## 📬 **Let's Connect!**
 🔗 **[LinkedIn](https://www.linkedin.com/in/marcgalanga)**  
-📩 **Email:** [Your Email]  
+📩 **Email:** [marcmjn@yahoo.com]  
 💻 **Portfolio (if available):** [Your Website]  
 
 ---
